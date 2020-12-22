@@ -1,0 +1,15 @@
+//Variables//
+Una variable es como una "hoja" la cual puede tener escrita distintos tipos de datos. Estos datos pueden ser letras, numeros, valores boleanos(verdadero o falso) o operaciones
+
+//Strings//
+Los strings son un grupo de palabras guardas en la variable("hojas"). Cual quier texto entre comillas es una string o cadena
+
+//Funciones (argumentos, return)//
+Las funciones son acciones que preparamos con anterioridad para poder llamarlas cuando queramos. 
+
+//Declaraciones if//
+Los if son condicionales. If en ingles singifica si, entonces este if nos sirve para obtener resultados de verdadero o falso atravez de estas condiciones.
+un ejemplo seria "if manzana = roja resultado true" osea si la manzana es roja el resutlado es verdadero.
+
+//Valores booleanos (true, false)//
+Explicandolo de forma simple los valores booleanos son como interruptores que pueden estar prendidos o apagados. Si el valores es true esta prendido y si es fales esta apagado.
