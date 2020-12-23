@@ -1,0 +1,14 @@
+//For//
+Los bucles for son formas que tenemos los desarolladores de verificar que una condicion se cumpla para x cantidad de casos por ejemplo. Esto es asi ya que declaramos una variable para luego relacionarla con una condicion y verificar esta mientras la variable va aumentando
+
+//&&, ||, !//
+Estos simbolos represetan a operadores logicos, estos operadores son simbolos que significan diferentes cosas.
+
+&&:
+Se dicen 2 cosas y las 2 tienen que ser verdaderas para que todo lo que se dice sea verdadero
+
+||:
+Se dicen 2 cosas y 1 de las 2 tienen que ser verdadera para uqe todo lo que se dice sea verdadero
+
+!:
+Sirve para negar, un ejemplo es el siguiente == significa es igual, pero si escribimos !== significa no es igual
