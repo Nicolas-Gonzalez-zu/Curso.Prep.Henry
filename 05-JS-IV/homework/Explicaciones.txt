@@ -1,0 +1,14 @@
+//Objetos//
+Podemos decir que un objeto es como un array, pero que contiene las caracteristicas de una sola cosa. Un ejemplo seria que el objeto manzana tenga como caractersiticas su color y sabor
+
+//Propiedades//
+Son las caracteristicas de cada objeto
+
+//Métodos//
+Funciones dentro de los objetos, las funciones son acciones que preparamos con anterioridad para poder llamarlas cuando queramos como se explico anteriormente 
+
+//Bucle for…in//
+Como los objetos no tienen un indice numerico, debido a esto el bucle for in se utiliza para recorrer cada clave("cracteristica") del objeto.
+
+//Notación de puntos vs notación de corchetes//
+La notacion de corchetes nos da mas idea de con que tipo de datoe estamos trabajando, mientras que la notacion de punto puede llegar a ser mas simple y rapida de usar. Es imporatnte destacar que con corchetes solo podemos usar numeros o cadenas, pero tambine podemos declarar una variable que apunte a una cadena o numero
