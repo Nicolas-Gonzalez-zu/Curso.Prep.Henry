@@ -1,0 +1,5 @@
+//Prototype//
+Podriamos decir que es una forma que tienen las clases para brindar sus metodos a los objetos que estan relacionados con ella. Es como un acceso directo a los metodos de una clase por parte de los objetos.
+
+//Constructors (de Clases)//
+Un constructor o clase son utiles a la hora de crear objetos que tienen mismas funcionalidades o caractersiticas. Un ejemplo seria crear un constructor de "fruta roja" y que esta clase se comparta entre manzas, frutillas, etc.
