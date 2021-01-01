@@ -1,0 +1,34 @@
+.vertical-container {
+    flex-direction: column;
+    height: 800px;
+    display: -webkit-flex;
+    display:         flex;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+}
+
+
+
+.divClass{
+    text-align: center;
+}
+
+#thirdDiv{
+    
+    border:4px dashed red;
+    width: 600px;
+    height: 500px;
+    background-color: blue;
+    padding: 50px;
+    
+    
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+
+}
+

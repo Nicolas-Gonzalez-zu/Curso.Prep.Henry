@@ -1,0 +1,101 @@
+body{
+    margin-top: 5%;
+}
+
+div{
+    margin: 5px;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 5%;
+    background-color: rgb(114, 121, 219);
+    width: 100%;
+    font-size: 25px;
+    font-style: oblique;
+    text-align: center;
+
+}
+
+.contenedorPapa{
+    width: 100%;
+    height: 400px;
+    background: rgb(13, 60, 148);
+    display: flex;
+    flex-direction: row;
+    -webkit-align-items: center;
+            align-items: center;
+
+}
+
+.contenedorSup1{
+    min-width: 230px;
+    width: 15%;
+    height: 300px;
+    background: cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    -webkit-align-items: center;
+            align-items: center;
+    margin-left: 2%;
+    margin-right: 1em;
+
+
+    
+}
+.MiFoto{
+    min-width: 160px;
+    margin-top: 1em;
+    height: 65%;
+    width: 75%;
+    background: rgb(88, 96, 207);
+}
+
+.MiNombre{
+    min-width: 160px;
+    margin: 3em;
+    height: 10%;
+    width: 75%;
+    background: rgb(114, 121, 219);
+    text-align: center;
+}
+
+.contenedorSup2{
+    width: 80%;
+    height: 300px;
+    background: cornflowerblue;
+    display: flex;
+    margin-right: 2%;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.MiDescripcion{
+    font-size: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+    
+}
+
+.contenedorInf{
+    width: 100%;
+    height: 400px;
+    background: rgb(114, 121, 219);
+    margin-top: 2em;
+    display: flex;
+    flex-direction: column;
+    -webkit-align-items: center;
+            align-items: center;
+    overflow: auto;
+}
+
+.contenedorInfItems{
+    text-align: center;
+    font-size: 20px;
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+}
+
